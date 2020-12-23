@@ -1,0 +1,24 @@
+head, body {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background-color: #030D25;
+}
+
+#counter {
+    margin-top: 10em;
+}
+
+#timeuntil {
+    text-align: center;
+    font-size: 7em;
+    color: #99A7C9;
+}
+
+#message {
+    text-align: center;
+    margin-top: 1em;
+    font-size: 2em;
+    color: #596B99;
+    font-family: 'Comic Sans MS';
+}
